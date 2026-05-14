@@ -1,0 +1,408 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "type": "movie",
+      "genre": ["Sci-Fi", "Action"],
+      "year": 2010,
+      "rating": 8.8,
+      "poster": "./public/images/1.jfif",
+      "description": "Dream infiltration."
+    },
+    {
+      "id": 2,
+      "title": "Interstellar",
+      "type": "movie",
+      "genre": ["Sci-Fi", "Drama"],
+      "year": 2014,
+      "rating": 8.6,
+      "poster": "./public/images/2.jfif",
+      "description": "Saving humanity through space."
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "type": "movie",
+      "genre": ["Action", "Crime"],
+      "year": 2008,
+      "rating": 9.0,
+      "poster": "./public/images/3.jpg",
+      "description": "Batman vs Joker."
+    },
+    {
+      "id": 4,
+      "title": "Fight Club",
+      "type": "movie",
+      "genre": ["Drama"],
+      "year": 1999,
+      "rating": 8.8,
+      "poster": "./public/images/4.jfif",
+      "description": "Underground fight club."
+    },
+    {
+      "id": 5,
+      "title": "The Matrix",
+      "type": "movie",
+      "genre": ["Sci-Fi", "Action"],
+      "year": 1999,
+      "rating": 8.7,
+      "poster": "./public/images/5.jfif",
+      "description": "Reality is a simulation."
+    },
+    {
+      "id": 6,
+      "title": "Breaking Bad",
+      "type": "series",
+      "genre": ["Crime", "Drama"],
+      "year": 2008,
+      "rating": 9.5,
+      "poster": "./public/images/6.jfif",
+      "description": "Chemistry teacher becomes drug lord."
+    },
+    {
+      "id": 7,
+      "title": "Game of Thrones",
+      "type": "series",
+      "genre": ["Fantasy", "Drama"],
+      "year": 2011,
+      "rating": 9.2,
+      "poster": "./public/images/7.jfif",
+      "description": "Battle for the Iron Throne."
+    },
+    {
+      "id": 8,
+      "title": "Stranger Things",
+      "type": "series",
+      "genre": ["Sci-Fi", "Horror"],
+      "year": 2016,
+      "rating": 8.7,
+      "poster": "./public/images/8.jfif",
+      "description": "Supernatural mysteries."
+    },
+    {
+      "id": 9,
+      "title": "The Boys",
+      "type": "series",
+      "genre": ["Action", "Drama"],
+      "year": 2019,
+      "rating": 8.7,
+      "poster": "./public/images/9.jfif",
+      "description": "Corrupt superheroes."
+    },
+    {
+      "id": 10,
+      "title": "Peaky Blinders",
+      "type": "series",
+      "genre": ["Crime", "Drama"],
+      "year": 2013,
+      "rating": 8.8,
+      "poster": "./public/images/10.jfif",
+      "description": "British gangster family."
+    },
+    {
+      "id": 11,
+      "title": "The Shawshank Redemption",
+      "type": "movie",
+      "genre": ["Drama"],
+      "year": 1994,
+      "rating": 9.3,
+      "poster": "./public/images/11.jfif",
+      "description": "Hope and friendship in prison."
+    },
+    {
+      "id": 12,
+      "title": "Forrest Gump",
+      "type": "movie",
+      "genre": ["Drama", "Romance"],
+      "year": 1994,
+      "rating": 8.8,
+      "poster": "./public/images/12.jfif",
+      "description": "Life of Forrest Gump."
+    },
+    {
+      "id": 13,
+      "title": "The Witcher",
+      "type": "series",
+      "genre": ["Fantasy", "Action"],
+      "year": 2019,
+      "rating": 8.1,
+      "poster": "./public/images/13.jpg",
+      "description": "Monster hunter saga."
+    },
+    {
+      "id": 14,
+      "title": "Gladiator",
+      "type": "movie",
+      "genre": ["Action", "Drama"],
+      "year": 2000,
+      "rating": 8.5,
+      "poster": "./public/images/14.jfif",
+      "description": "Roman general seeks revenge."
+    },
+    {
+      "id": 15,
+      "title": "Joker",
+      "type": "movie",
+      "genre": ["Crime", "Drama"],
+      "year": 2019,
+      "rating": 8.4,
+      "poster": "./public/images/15.jfif",
+      "description": "Origin of the Joker."
+    },
+    {
+      "id": 16,
+      "title": "The Godfather",
+      "type": "movie",
+      "genre": ["Crime", "Drama"],
+      "year": 1972,
+      "rating": 9.2,
+      "poster": "./public/images/16.jfif",
+      "description": "Mafia family saga."
+    },
+    {
+      "id": 17,
+      "title": "The Lord of the Rings",
+      "type": "movie",
+      "genre": ["Fantasy", "Adventure"],
+      "year": 2001,
+      "rating": 8.8,
+      "poster": "./public/images/17.jfif",
+      "description": "Quest to destroy the ring."
+    },
+    {
+      "id": 18,
+      "title": "Avatar",
+      "type": "movie",
+      "genre": ["Sci-Fi", "Adventure"],
+      "year": 2009,
+      "rating": 7.9,
+      "poster": "./public/images/18.jfif",
+      "description": "Alien planet Pandora."
+    },
+    {
+      "id": 19,
+      "title": "Money Heist",
+      "type": "series",
+      "genre": ["Crime", "Thriller"],
+      "year": 2017,
+      "rating": 8.2,
+      "poster": "./public/images/19.jfif",
+      "description": "Heist at Royal Mint."
+    },
+    {
+      "id": 20,
+      "title": "Narcos",
+      "type": "series",
+      "genre": ["Crime", "Drama"],
+      "year": 2015,
+      "rating": 8.8,
+      "poster": "./public/images/20.jfif",
+      "description": "Rise of drug cartels."
+    },
+    {
+      "id": 21,
+      "title": "Se7en",
+      "type": "movie",
+      "genre": ["Crime", "Thriller"],
+      "year": 1995,
+      "rating": 8.6,
+      "poster": "./public/images/21.jfif",
+      "description": "Seven deadly sins killer."
+    },
+    {
+      "id": 22,
+      "title": "The Prestige",
+      "type": "movie",
+      "genre": ["Drama", "Mystery"],
+      "year": 2006,
+      "rating": 8.5,
+      "poster": "./public/images/22.jfif",
+      "description": "Rival magicians."
+    },
+    {
+      "id": 23,
+      "title": "Black Mirror",
+      "type": "series",
+      "genre": ["Sci-Fi", "Drama"],
+      "year": 2011,
+      "rating": 8.8,
+      "poster": "./public/images/23.jfif",
+      "description": "Dark future technology."
+    },
+    {
+      "id": 24,
+      "title": "The Office",
+      "type": "series",
+      "genre": ["Comedy"],
+      "year": 2005,
+      "rating": 8.9,
+      "poster": "./public/images/24.jfif",
+      "description": "Office workplace comedy."
+    },
+    {
+      "id": 25,
+      "title": "Friends",
+      "type": "series",
+      "genre": ["Comedy", "Romance"],
+      "year": 1994,
+      "rating": 8.9,
+      "poster": "./public/images/25.jfif",
+      "description": "Six friends in NYC."
+    },
+
+    {
+      "id": 26,
+      "title": "Parasite",
+      "type": "movie",
+      "genre": ["Drama", "Thriller"],
+      "year": 2019,
+      "rating": 8.6,
+      "poster": "./public/images/26.jfif",
+      "description": "Class divide thriller."
+    },
+    {
+      "id": 27,
+      "title": "Dune",
+      "type": "movie",
+      "genre": ["Sci-Fi", "Adventure"],
+      "year": 2021,
+      "rating": 8.0,
+      "poster": "./public/images/27.jfif",
+      "description": "Desert planet politics."
+    },
+    {
+      "id": 28,
+      "title": "Chernobyl",
+      "type": "series",
+      "genre": ["Drama", "History"],
+      "year": 2019,
+      "rating": 9.4,
+      "poster": "./public/images/28.jfif",
+      "description": "Nuclear disaster."
+    },
+    {
+      "id": 29,
+      "title": "The Mandalorian",
+      "type": "series",
+      "genre": ["Sci-Fi", "Adventure"],
+      "year": 2019,
+      "rating": 8.7,
+      "poster": "./public/images/29.jfif",
+      "description": "Star Wars bounty hunter."
+    },
+    {
+      "id": 30,
+      "title": "John Wick",
+      "type": "movie",
+      "genre": ["Action", "Thriller"],
+      "year": 2014,
+      "rating": 7.9,
+      "poster": "./public/images/30.jfif",
+      "description": "Hitman revenge."
+    },
+
+    {
+      "id": 31,
+      "title": "The Social Network",
+      "type": "movie",
+      "genre": ["Drama"],
+      "year": 2010,
+      "rating": 7.8,
+      "poster": "./public/images/31.jfif",
+      "description": "Facebook creation."
+    },
+    {
+      "id": 32,
+      "title": "Sherlock",
+      "type": "series",
+      "genre": ["Crime", "Mystery"],
+      "year": 2010,
+      "rating": 9.1,
+      "poster": "./public/images/32.jfif",
+      "description": "Modern Sherlock Holmes."
+    },
+    {
+      "id": 33,
+      "title": "Dark",
+      "type": "series",
+      "genre": ["Sci-Fi", "Mystery"],
+      "year": 2017,
+      "rating": 8.8,
+      "poster": "./public/images/33.jfif",
+      "description": "Time travel mystery."
+    },
+    {
+      "id": 34,
+      "title": "Whiplash",
+      "type": "movie",
+      "genre": ["Drama"],
+      "year": 2014,
+      "rating": 8.5,
+      "poster": "./public/images/34.jfif",
+      "description": "Music and obsession."
+    },
+    {
+      "id": 35,
+      "title": "Blade Runner 2049",
+      "type": "movie",
+      "genre": ["Sci-Fi", "Drama"],
+      "year": 2017,
+      "rating": 8.0,
+      "poster": "./public/images/35.jfif",
+      "description": "Future androids."
+    },
+
+    {
+      "id": 36,
+      "title": "House of the Dragon",
+      "type": "series",
+      "genre": ["Fantasy", "Drama"],
+      "year": 2022,
+      "rating": 8.5,
+      "poster": "./public/images/36.jfif",
+      "description": "Targaryen civil war."
+    },
+    {
+      "id": 37,
+      "title": "The Last of Us",
+      "type": "series",
+      "genre": ["Drama", "Horror"],
+      "year": 2023,
+      "rating": 9.0,
+      "poster": "./public/images/37.jfif",
+      "description": "Post-apocalyptic survival."
+    },
+    {
+      "id": 38,
+      "title": "Oppenheimer",
+      "type": "movie",
+      "genre": ["Drama", "History"],
+      "year": 2023,
+      "rating": 8.6,
+      "poster": "./public/images/38.jfif",
+      "description": "Father of the atomic bomb."
+    },
+    {
+      "id": 39,
+      "title": "Django Unchained",
+      "type": "movie",
+      "genre": ["Drama", "Western"],
+      "year": 2012,
+      "rating": 8.4,
+      "poster": "./public/images/39.jfif",
+      "description": "Freed slave revenge."
+    },
+    {
+      "id": 40,
+      "title": "Better Call Saul",
+      "type": "series",
+      "genre": ["Crime", "Drama"],
+      "year": 2015,
+      "rating": 8.9,
+      "poster": "./public/images/40.jfif",
+      "description": "Lawyer transformation."
+    }
+  ]
+
+}
